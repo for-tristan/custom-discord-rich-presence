@@ -13,8 +13,10 @@ A GUI application to set and manage custom Discord Rich Presence statuses.
 - Live editing without restarting
 - Optional image support
 
+## Demo
 
-
+![2026-04-0207-31-30-ezgif com-crop](https://github.com/user-attachments/assets/f0fe6d4e-7b14-404f-80c9-68f50492858f)
+      
 ## Installation
 
  #### Git clone this Repo 
