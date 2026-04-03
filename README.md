@@ -25,6 +25,14 @@ A GUI application to set and manage custom Discord Rich Presence statuses.
   cd custom-discord-rich-presence
   pip install -r requirements.txt
 ```
+## Requirements
+
+
+```bash
+customtkinter>=5.2.0
+pypresence>=4.2.0
+```
+
 
     
 ## Usage
@@ -48,13 +56,6 @@ python RPC.py
 #### 1. In your Discord application, go to Rich Presence → Art Assets
 #### 2. Upload an image and note the key name
 #### 3. Enter that key in the Image Key field
-## Requirements
-
-
-```bash
-customtkinter>=5.2.0
-pypresence>=4.2.0
-```
 
 > [!IMPORTANT]
 > - Discord must be running for the RPC to display
