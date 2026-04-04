@@ -1,6 +1,5 @@
 
 # Discord Rich Presence 
-<img width="40" height="80" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/3589ce86-8cdf-4c89-8eb7-97b58ef41221" /> 
 
 A GUI application to set and manage custom Discord Rich Presence statuses.
 
